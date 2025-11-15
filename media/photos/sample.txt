@@ -1,0 +1,1 @@
+This is a sample media file to demonstrate media file handling in the Django application.
