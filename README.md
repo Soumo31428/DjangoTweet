@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Simplified Tweet Application
 
 A clean and simplified Django application for creating and managing tweets.
@@ -85,10 +85,3 @@ tweet_project/
 ├── requirements.txt       # Project dependencies
 └── README.md              # This file
 ```
-
-## License
-
-This project is open source and available under the MIT License.
-=======
-# DjangoTweet
->>>>>>> d0643c29956f05d9313a5abf487ad37a36a0dc64
